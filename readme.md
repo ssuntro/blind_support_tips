@@ -1,4 +1,4 @@
-# snapshot.py
+# screensnapper.py
 
 Extract frames from a video file at specified timestamps.
 
